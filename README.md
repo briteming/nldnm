@@ -4,7 +4,7 @@ Welcome to the tutorial for building a blog using Next.js, Tailwind CSS, and MDX
 
 ## Tutorial Blog Post
 
-To follow along with the tutorial, check out the detailed [blog post](https://honghong.me/blog/how-to-build-a-blog-with-nextjs-and-mdx) on my website. The blog post explains each step of the process and provides code examples to help you build your own blog.
+To follow along with the tutorial, check out the detailed [blog post](https://nelsonlai.dev/blog/how-to-build-a-blog-with-nextjs-and-mdx) on my website. The blog post explains each step of the process and provides code examples to help you build your own blog.
 
 ## Technologies Used
 
@@ -16,7 +16,7 @@ To follow along with the tutorial, check out the detailed [blog post](https://ho
 
 ## Demo
 
-Explore the live demo of the blog you'll be building: [Next.js MDX Blog Demo](https://hong-nextjs-mdx-blog.vercel.app)
+Explore the live demo of the blog you'll be building: [Next.js MDX Blog Demo](https://nelsonlai-nextjs-mdx-blog.vercel.app)
 
 ## Running Locally
 
@@ -25,7 +25,7 @@ Follow these steps to run the project locally on your machine:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/tszhong0411/nextjs-mdx-blog.git
+git clone https://github.com/nelsonlaidev/nextjs-mdx-blog.git
 ```
 
 2. Navigate to the project directory
@@ -52,4 +52,4 @@ Feel free to explore the code, experiment, and make the blog your own!
 
 ## Author
 
-This tutorial was created by [@tszhong0411](https://github.com/tszhong0411).
+This tutorial was created by [@nelsonlaidev](https://github.com/nelsonlaidev).
